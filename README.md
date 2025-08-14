@@ -1,2 +1,2 @@
 # Introduction-to-artificial-intelligence-Midterm
-Solving the 8-Puzzle problem using BFS and A* algorithms, with heuristic design, console visualization, and performance comparison on 1000 random states.
+Implementation of the 8-Puzzle problem as part of the midterm for the Introduction to Artificial Intelligence course at Ton Duc Thang University. This project applies BFS and A* search algorithms to solve the 8-Puzzle from a given initial state to one of two goal states. It includes user input handling, step-by-step visualization in the console, heuristic design for A*, random generation of 1000 test states, performance comparison (average path cost & number of solutions), and result visualization using Matplotlib.
